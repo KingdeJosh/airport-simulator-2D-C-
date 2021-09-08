@@ -1,0 +1,20 @@
+c:\users\akujobi joshua\documents\visual studio 2013\Projects\Class1\Class1\bin\Debug\Class1.exe.config
+c:\users\akujobi joshua\documents\visual studio 2013\Projects\Class1\Class1\bin\Debug\Class1.exe
+c:\users\akujobi joshua\documents\visual studio 2013\Projects\Class1\Class1\bin\Debug\Class1.pdb
+c:\users\akujobi joshua\documents\visual studio 2013\Projects\Class1\Class1\obj\Debug\Class1.csprojResolveAssemblyReference.cache
+c:\users\akujobi joshua\documents\visual studio 2013\Projects\Class1\Class1\obj\Debug\Class1.Airport.resources
+c:\users\akujobi joshua\documents\visual studio 2013\Projects\Class1\Class1\obj\Debug\Class1.Properties.Resources.resources
+c:\users\akujobi joshua\documents\visual studio 2013\Projects\Class1\Class1\obj\Debug\Class1.csproj.GenerateResource.Cache
+c:\users\akujobi joshua\documents\visual studio 2013\Projects\Class1\Class1\obj\Debug\Class1.exe
+c:\users\akujobi joshua\documents\visual studio 2013\Projects\Class1\Class1\obj\Debug\Class1.pdb
+C:\Users\Akujobi Joshua\Documents\Visual Studio 2013\Projects\Class1\Class1\bin\Debug\Tree1_PP_RMA.png
+C:\Users\Akujobi Joshua\Documents\Visual Studio 2013\Projects\Class1\Class1\bin\Debug\Pics\plane.png
+C:\Users\Akujobi Joshua\Documents\Visual Studio 2013\Projects\Class1\Class1\bin\Debug\Pics\plane3.png
+C:\Users\Akujobi Joshua\Documents\Visual Studio 2013\Projects\Class1\Class1\bin\Debug\Pics\plane5.png
+C:\Users\Akujobi Joshua\Documents\Visual Studio 2013\Projects\Class1\Class1\bin\Debug\Pics\plane4.png
+G:\Airplane Assignment Mr.Eugene\Joshua Akujobi Chukwukamnelenya 14902014\Class1\Class1\bin\Debug\Class1.exe.config
+G:\Airplane Assignment Mr.Eugene\Joshua Akujobi Chukwukamnelenya 14902014\Class1\Class1\obj\Debug\Class1.exe
+G:\Airplane Assignment Mr.Eugene\Joshua Akujobi Chukwukamnelenya 14902014\Class1\Class1\obj\Debug\Class1.pdb
+C:\Users\HP\Dropbox\GTUC\Adjunct\Staffordshire\Airplane Assignment Mr.Eugene\Joshua Akujobi Chukwukamnelenya 14902014\Class1\Class1\bin\Debug\Class1.exe.config
+C:\Users\HP\Dropbox\GTUC\Adjunct\Staffordshire\Airplane Assignment Mr.Eugene\Joshua Akujobi Chukwukamnelenya 14902014\Class1\Class1\obj\Debug\Class1.exe
+C:\Users\HP\Dropbox\GTUC\Adjunct\Staffordshire\Airplane Assignment Mr.Eugene\Joshua Akujobi Chukwukamnelenya 14902014\Class1\Class1\obj\Debug\Class1.pdb
